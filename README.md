@@ -6,4 +6,5 @@
 The Player, who has an diagonal, horizontal or vertical line of 3 wins
 ## Info
 You can see the current token here:
+<br>
 ![](ttt.png)
